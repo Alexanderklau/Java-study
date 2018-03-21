@@ -24,7 +24,7 @@ public class Retirement2
 
             year++;
 
-            System.out.print("After year %d, your balance is %d", year, balance);
+            System.out.print("After year %d, your balance is %", year, balance);
 
             System.out.print("Ready to retire(Y/N)");
 
